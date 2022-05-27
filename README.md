@@ -6,4 +6,6 @@ Update44
 
 update44
 
+save_artifacts
+
 
