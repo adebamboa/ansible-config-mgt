@@ -2,9 +2,9 @@
 Ansible automation
 Test
 
-Update44
+Update
 
-update44
+update
 
 save_artifacts
 
